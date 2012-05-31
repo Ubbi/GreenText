@@ -1,0 +1,5 @@
+name: ${project.name}
+main: TEMPLATE
+version: ${project.version}
+author: Ubbi
+description: GreenText makes text green

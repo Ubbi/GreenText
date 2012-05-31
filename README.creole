@@ -1,0 +1,7 @@
+== GreenText
+
+GreenText makes text green
+
+=== Compiling
+
+Maven 3 is required to compile GreenText
