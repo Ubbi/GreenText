@@ -1,5 +1,5 @@
 name: ${project.name}
-main: com.gmail.dubbiubbi.grentext.GreenText
+main: com.gmail.dubbiubbi.greentext.GreenText
 version: ${project.version}
 author: Ubbi
 description: GreenText makes text green
